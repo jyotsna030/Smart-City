@@ -30,4 +30,4 @@ The Smart City Guide is a Java application designed to act as a city guide for v
 
 ## License
 
-This project is licensed under the MIT License - see the [[LICENSE](https://github.com/jyotsna030/Smart-City/blob/main/MIT%20licnese)https://github.com/jyotsna030/Smart-City/blob/main/MIT%20licnese](LICENSE) file for details.
+This project is licensed under the MIT License - see the [[LICENSE](https://github.com/jyotsna030/Smart-City/blob/main/MIT%20licnese) file for details.
