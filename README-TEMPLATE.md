@@ -24,10 +24,6 @@ The Smart City Guide is a Java application designed to act as a city guide for v
 3. Compile the Java source files using a Java compiler.
 4. Run the SmartCityGuide class to launch the application.
 
-## Screenshots
-
-
-
 ## Credits
 
 - Icons made by [Freepik](https://www.freepik.com) from [Flaticon](https://www.flaticon.com)
