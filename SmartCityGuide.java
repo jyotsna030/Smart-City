@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) [Jyotsna Shrivastava] [2024]
+ * All rights reserved.
+ */
 import java.awt.*;
 import java.awt.event.*;
 import java.net.*;
@@ -62,6 +66,7 @@ public class SmartCityGuide extends JFrame implements ActionListener {
         });
         return button;
     }
+    
 
     private void loadCityImage() {
         try {
@@ -92,7 +97,7 @@ public class SmartCityGuide extends JFrame implements ActionListener {
         new SmartCityGuide();
     }
 
-    @Override
+    
     public void actionPerformed(ActionEvent e) {
         // Implementation not needed here
     }
